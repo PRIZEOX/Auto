@@ -6,7 +6,16 @@ using System.Threading.Tasks;
 
 namespace Auto
 {
-    class Class1
+    class DataBase
     {
+        void get()
+        {
+            var a = 1;
+        }
+
+        void post()
+        {
+            int b = 3;
+        }
     }
 }
