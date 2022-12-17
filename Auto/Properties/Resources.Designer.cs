@@ -27,6 +27,9 @@ namespace Auto.Properties
         private static global::System.Resources.ResourceManager resourceMan;
 
         private static global::System.Globalization.CultureInfo resourceCulture;
+        /// <summary>
+        /// fdsf
+        /// </summary>
 
 
         [global::System.Diagnostics.CodeAnalysis.SuppressMessageAttribute("Microsoft.Performance", "CA1811:AvoidUncalledPrivateCode")]

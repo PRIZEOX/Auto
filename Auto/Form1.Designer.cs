@@ -17,6 +17,7 @@ namespace Auto
             if (disposing && (components != null))
             {
                 components.Dispose();
+                //dasd
             }
             base.Dispose(disposing);
         }
