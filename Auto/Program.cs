@@ -14,9 +14,10 @@ namespace Auto
         [STAThread]
         static void Main()
         {
+            Console.WriteLine();
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(new Form1());
+            Application.Run(new AuthorizationForm());
         }
     }
 }
